@@ -1,0 +1,12 @@
+{
+	"version": "1.08",
+	"description": "A complete IDE for the scripting language AutoIt."
+	"url": "https://www.isnetwork.at/phocadownload/170/",
+	"extract_dir": "isn-autoit-studio",
+	"homepage": "https://www.isnetwork.at/isn-autoit-studio/",
+	"checkver": {
+			"url": "https://www.isnetwork.at/isn-downloads/",
+			"re": "ISN AutoIt Studio ([\\d.]+) as Finished Compiled"
+		},
+	"autoupdate": "https://www.isnetwork.at/phocadownload/170/"
+}
